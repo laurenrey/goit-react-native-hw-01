@@ -1,1 +1,1 @@
-# goit-react-native-hw-01
+# my-project
